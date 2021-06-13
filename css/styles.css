@@ -1,0 +1,28 @@
+body{
+  background-color: #fcdec0;
+  text-align:center;
+  font-family: Montserrat,serif;
+}
+h1{
+  font-family:Sacramento, serif;
+}
+
+.underline{
+  text-decoration: underline;
+}
+.cloud1{
+  position: absolute;
+  right:400px;
+  top:70px;
+
+
+}
+.cloud2{
+  position: absolute;
+  left:400px;
+  top:250px;
+}
+.top{
+  padding-top: 100px;
+  position: relative;
+}
